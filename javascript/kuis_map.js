@@ -7,6 +7,8 @@
  *   - key "MYR", value 3500
  * 2. Buatlah variabel priceInIDR yang bernilai dari hasil perkalian:
  *     - priceInJPY dengan nilai currency JPY
+ * 
+ * ezah ini
  */
 
 const priceInJPY = 5000;
