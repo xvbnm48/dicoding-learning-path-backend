@@ -8,7 +8,7 @@
  * 2. Buatlah variabel priceInIDR yang bernilai dari hasil perkalian:
  *     - priceInJPY dengan nilai currency JPY
  * 
- * ezah ini
+ * ezah ini ez lah
  */
 
 const priceInJPY = 5000;
