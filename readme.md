@@ -8,7 +8,7 @@ Beberapa hal yang telah kita bahas pada modul ini, antara lain:
 3. Map menyimpan banyak data dengan format key-value seperti object. Namun, key pada Map dapat bertipe apa pun.
 4. Set digunakan untuk menyimpan banyak data secara unik, tidak ada duplikasi, tidak berurutan, dan tidak diindeks.
 
-## OOP
+## OOP!
 1. OOP merupakan paradigma yang berdasarkan pada konsep objek yang memiliki atribut serta dapat melakukan operasi atau prosedur tertentu.
 2. Terdapat 4 (empat) pilar dalam object oriented programming, antara lain: encapsulation, abstraction, inheritance, dan polymorphism.
 3. Class merupakan blueprint untuk mendefinisikan karakteristik dari sebuah objek.
