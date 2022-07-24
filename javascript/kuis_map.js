@@ -25,5 +25,6 @@ let priceInIDR = priceInJPY * currency.get("JPY");
 console.log(priceInIDR);
 /**
  * Hiraukan kode di bawah ini
+ * oke
  */
 module.exports = { currency, priceInJPY, priceInIDR };
