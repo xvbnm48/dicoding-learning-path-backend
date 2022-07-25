@@ -21,8 +21,8 @@ const currency = new Map([
   ["MYR", 3500],
 ]);
 
-let priceInIDR = priceInJPY * currency.get("JPY");
-console.log(priceInIDR);
+let hargaPadaIDR = priceInJPY * currency.get("JPY");
+console.log(hargaPadaIDR);
 /**
  * Hiraukan kode di bawah ini
  * oke!!!!
