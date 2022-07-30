@@ -1,4 +1,4 @@
-# Rangkuman Materi
+# Rangkuman Materi!
 Untuk menyelesaikan masalah yang lebih kompleks secara efisien, kita membutuhkan struktur data yang lebih canggih dibandingkan variabel primitif. JavaScript memiliki tipe data lain yang dapat menyimpan banyak data sekaligus, contohnya seperti Object, Arrays, Map, dan Set.
 27-7-2022 fokus sidang
 28-7-2022 ujian akhir!
